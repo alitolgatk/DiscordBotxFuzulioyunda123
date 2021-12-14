@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "name": "mahmut",
+  "description": "TEONUN UZUN İNCE PİPİSİNİN SOĞAN KISMI",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alitolgatk/DiscordBotxFuzulioyunda123.git"
+  },
+  "author": "-alitolgatk-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alitolgatk/DiscordBotxFuzulioyunda123/issues"
+  },
+  "homepage": "https://github.com/alitolgatk/DiscordBotxFuzulioyunda123#readme"
+}
